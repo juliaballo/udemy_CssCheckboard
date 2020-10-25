@@ -1,0 +1,8 @@
+.square:nth-child(odd){
+    background: red;
+}
+.square:nth-child(even){
+    background: black;
+}
+
+
